@@ -1,0 +1,14 @@
+C:\Users\ahmet.bilen\Desktop\gof-design-patterns-csharp-cheatsheet\src\GoFDesignPatterns\bin\Debug\net9.0\GoFDesignPatterns.exe
+C:\Users\ahmet.bilen\Desktop\gof-design-patterns-csharp-cheatsheet\src\GoFDesignPatterns\bin\Debug\net9.0\GoFDesignPatterns.deps.json
+C:\Users\ahmet.bilen\Desktop\gof-design-patterns-csharp-cheatsheet\src\GoFDesignPatterns\bin\Debug\net9.0\GoFDesignPatterns.runtimeconfig.json
+C:\Users\ahmet.bilen\Desktop\gof-design-patterns-csharp-cheatsheet\src\GoFDesignPatterns\bin\Debug\net9.0\GoFDesignPatterns.dll
+C:\Users\ahmet.bilen\Desktop\gof-design-patterns-csharp-cheatsheet\src\GoFDesignPatterns\bin\Debug\net9.0\GoFDesignPatterns.pdb
+C:\Users\ahmet.bilen\Desktop\gof-design-patterns-csharp-cheatsheet\src\GoFDesignPatterns\obj\Debug\net9.0\GoFDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet.bilen\Desktop\gof-design-patterns-csharp-cheatsheet\src\GoFDesignPatterns\obj\Debug\net9.0\GoFDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\ahmet.bilen\Desktop\gof-design-patterns-csharp-cheatsheet\src\GoFDesignPatterns\obj\Debug\net9.0\GoFDesignPatterns.AssemblyInfo.cs
+C:\Users\ahmet.bilen\Desktop\gof-design-patterns-csharp-cheatsheet\src\GoFDesignPatterns\obj\Debug\net9.0\GoFDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\ahmet.bilen\Desktop\gof-design-patterns-csharp-cheatsheet\src\GoFDesignPatterns\obj\Debug\net9.0\GoFDesignPatterns.dll
+C:\Users\ahmet.bilen\Desktop\gof-design-patterns-csharp-cheatsheet\src\GoFDesignPatterns\obj\Debug\net9.0\refint\GoFDesignPatterns.dll
+C:\Users\ahmet.bilen\Desktop\gof-design-patterns-csharp-cheatsheet\src\GoFDesignPatterns\obj\Debug\net9.0\GoFDesignPatterns.pdb
+C:\Users\ahmet.bilen\Desktop\gof-design-patterns-csharp-cheatsheet\src\GoFDesignPatterns\obj\Debug\net9.0\GoFDesignPatterns.genruntimeconfig.cache
+C:\Users\ahmet.bilen\Desktop\gof-design-patterns-csharp-cheatsheet\src\GoFDesignPatterns\obj\Debug\net9.0\ref\GoFDesignPatterns.dll
